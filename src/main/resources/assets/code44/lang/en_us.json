@@ -1,0 +1,19 @@
+{
+  "code44.subtitle.ambient_whisper": "Say Wallahi bro...",
+  "code44.subtitle.lullaby": "A distant lullaby echoes through the mine...",
+  "code44.subtitle.efbuispawn": "You hear something appear behind you...",
+  "code44.subtitle.efbuijoin": "A strange presence joins the world...",
+  "code44.subtitle.zer000killingyou": "ZER000 is hunting you...",
+  "code44.subtitle.heart": "A heartbeat fills the air...",
+  "code44.subtitle.efbuimineshaft": "Something mines through the dark...",
+  "entity.code44.e44efbui": "e44efbui",
+  "entity.code44.mineshaft_efbui": "efbui",
+  "entity.code44.observer": "Observer",
+  "entity.code44.zer000": "ZER000",
+  "entity.code44.black_cow": "Black Cow",
+  "entity.code44.black_pig": "Black Pig",
+  "entity.code44.black_chicken": "Black Chicken",
+  "entity.code44.skinwalker": "Skinwalker",
+  "generator.code44.help": "help",
+  "generator.code44.help.info": "A broken old world is waiting for you."
+}

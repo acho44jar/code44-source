@@ -1,0 +1,147 @@
+{
+  "ambient_whisper": {
+    "sounds": [
+      "code44:ambient_whisper"
+    ]
+  },
+  "lullaby": {
+    "sounds": [
+      "code44:lullaby"
+    ]
+  },
+  "efbuispawn": {
+    "sounds": [
+      "code44:efbuispawn"
+    ]
+  },
+  "efbuijoin": {
+    "sounds": [
+      "code44:efbuijoin"
+    ]
+  },
+  "zer000killingyou": {
+    "sounds": [
+      "code44:zer000killingyou"
+    ]
+  },
+  "heart": {
+    "sounds": [
+      "code44:heart"
+    ]
+  },
+  "efbuimineshaft": {
+    "sounds": [
+      "code44:efbuimineshaft"
+    ]
+  },
+  "sos": {
+    "sounds": [
+      "code44:sos"
+    ]
+  },
+  "efbuimir": {
+    "sounds": [
+      "code44:efbuimir"
+    ]
+  },
+  "door": {
+    "sounds": [
+      "code44:door"
+    ]
+  },
+  "fake": {
+    "sounds": [
+      "code44:fake"
+    ]
+  },
+  "doorvoid": {
+    "sounds": [
+      "code44:doorvoid"
+    ]
+  },
+  "doorefbui": {
+    "sounds": [
+      "code44:doorefbui"
+    ]
+  },
+  "glichdeadblack": {
+    "sounds": [
+      "code44:glichdeadblack"
+    ]
+  },
+  "godloveu": {
+    "sounds": [
+      "code44:godloveu"
+    ]
+  },
+  "imwatch": {
+    "sounds": [
+      "code44:imwatch"
+    ]
+  },
+  "sleepisshort": {
+    "sounds": [
+      "code44:sleepisshort"
+    ]
+  },
+  "urlife": {
+    "sounds": [
+      "code44:urlife"
+    ]
+  },
+  "yourend": {
+    "sounds": [
+      "code44:yourend"
+    ]
+  },
+  "crying": {
+    "sounds": [
+      "code44:crying"
+    ]
+  },
+  "brokenglass": {
+    "sounds": [
+      "code44:brokenglass"
+    ]
+  },
+  "skinwalker": {
+    "sounds": [
+      "code44:skinwalker"
+    ]
+  },
+  "tunnelobserverspawn": {
+    "sounds": [
+      "code44:tunnelobserverspawn"
+    ]
+  },
+  "err44r": {
+    "sounds": [
+      "code44:err44r"
+    ]
+  },
+  "maze": {
+    "sounds": [
+      "code44:maze"
+    ]
+  },
+  "greteminos": {
+    "sounds": [
+      "code44:greteminos"
+    ]
+  },
+  "whitedoor": {
+    "sounds": [
+      "code44:whitedoor"
+    ]
+  },
+  "mazeguardianunspawned": {
+    "sounds": [
+      "code44:mazeguardianunspawned"
+    ]
+  },
+  "fakeplayerinchathello": {
+    "sounds": [
+      "code44:fakeplayerinchathello"
+    ]
+  }
+}

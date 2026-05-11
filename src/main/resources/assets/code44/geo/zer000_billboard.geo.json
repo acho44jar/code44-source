@@ -1,0 +1,60 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.zer000_billboard",
+        "texture_width": 512,
+        "texture_height": 512,
+        "visible_bounds_width": 18,
+        "visible_bounds_height": 18,
+        "visible_bounds_offset": [0, 8, 0]
+      },
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [0, 24, 0]
+        },
+        {
+          "name": "plane_front",
+          "parent": "root",
+          "pivot": [0, 24, 0],
+          "cubes": [
+            {
+              "origin": [-16, 0, -0.5],
+              "size": [32, 24, 1],
+              "uv": {
+                "north": { "uv": [44, 98], "uv_size": [424, 316] },
+                "south": { "uv": [468, 98], "uv_size": [-424, 316] },
+                "east": { "uv": [0, 0], "uv_size": [1, 1] },
+                "west": { "uv": [0, 0], "uv_size": [1, 1] },
+                "up": { "uv": [0, 0], "uv_size": [1, 1] },
+                "down": { "uv": [0, 0], "uv_size": [1, 1] }
+              }
+            }
+          ]
+        },
+        {
+          "name": "plane_cross",
+          "parent": "root",
+          "pivot": [0, 24, 0],
+          "rotation": [0, 45, 0],
+          "cubes": [
+            {
+              "origin": [-16, 0, -0.5],
+              "size": [32, 24, 1],
+              "uv": {
+                "north": { "uv": [44, 98], "uv_size": [424, 316] },
+                "south": { "uv": [468, 98], "uv_size": [-424, 316] },
+                "east": { "uv": [0, 0], "uv_size": [1, 1] },
+                "west": { "uv": [0, 0], "uv_size": [1, 1] },
+                "up": { "uv": [0, 0], "uv_size": [1, 1] },
+                "down": { "uv": [0, 0], "uv_size": [1, 1] }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
